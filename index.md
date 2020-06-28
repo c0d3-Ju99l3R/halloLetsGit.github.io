@@ -10,3 +10,6 @@ Jeder kennt ihn. Niemand sucht ihn. Da ihn jeder findet.
 * beliebt
 * schön
 * bunt
+
+> Wer zu letzt lacht,
+> lacht am besten.
